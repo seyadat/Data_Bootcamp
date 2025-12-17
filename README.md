@@ -5,7 +5,7 @@ This space documents my learning journey, practice scripts, and evolving skills 
 
 I recently completed an intensive bootcamp guided by **Alex The Analyst and other resourceful youtubers**, whose tutorials and mentorships have been instrumental in shaping my understanding of **SQL, Excel, Power BI, and Python**.
 
-##  Bootcamp Overview
+## Bootcamp Overview
 
 Under Alex's guidance, I explored:
 
